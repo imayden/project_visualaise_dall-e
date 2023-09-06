@@ -1,6 +1,7 @@
 # Visualaise Image Generator
 
-![Visualaise Logo](client/public/logo.svg) <!-- Replace with the path to your logo file -->
+<img src="client/public/logo.svg" alt="Visualaise Logo" width="100" height="100"/>
+
 
 ## Overview
 
