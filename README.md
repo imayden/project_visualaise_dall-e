@@ -3,7 +3,6 @@
 <img src="client/public/logo.svg" alt="Visualaise Logo" width="100" height="100"/>
 
 ## Overview
-
 Visualaise Image Generator is a cutting-edge MERN stack AI image generator built to provide a seamless and enhanced user experience. It integrates modern web technologies and utilizes a powerful combination of Vite, Tailwind CSS, MongoDB, Cloudinary, and OpenAI DALL-E API to create a potent and responsive tool for generating images dynamically. The project, developed in May 2023 as an individual endeavor, showcases expert craftsmanship in both UX/UI, designed meticulously in Figma, and web development. It is hosted on Render, offering users a smooth and stable platform to access the application.
 
 ## Features
